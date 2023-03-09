@@ -1,4 +1,4 @@
-![사진][def]
+
 
 ### Major : Mechanical Engineering
 
@@ -7,6 +7,4 @@
 ##### UNIST
 ##### 동인천고등학교
 
-##### I'm interested in 
-
-[def]: C:\Users\sylee\2Kyoungh\v.jpg
+##### I'm interested in Data Science and Mechanical Factory Process Technology.
