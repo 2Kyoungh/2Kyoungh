@@ -1,10 +1,13 @@
+![image](C:\Users\sylee\2Kyoungh\v.jpg)
+
+[![2Kyoungh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Kyoungh)](https://github.com/2Kyoungh/github-readme-stats)
+
+#### *Mechanical Engineer*
 
 
-### Major : Mechanical Engineering
+##### *Graduate* 
+###### *UNIST*
 
 
-### Graduate 
-##### UNIST
-##### 동인천고등학교
+###### I'm interested in Data Science and Mechanical Process Technology.
 
-##### I'm interested in Data Science and Mechanical Factory Process Technology.
